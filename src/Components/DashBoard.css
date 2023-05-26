@@ -1,0 +1,29 @@
+.DashBoard {
+  width: 70%;
+  height: 100%;
+}
+.heading1 {
+  display: inline-block;
+}
+.heading2 {
+  display: inline-block;
+  background: -webkit-linear-gradient(60deg, #31b3bf, #1c3e6d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+p {
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+.taskListHeading {
+  color: white;
+  margin-top: 5vh;
+  margin-left: 2vh;
+}
+.noTasks {
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

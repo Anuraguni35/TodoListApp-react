@@ -1,0 +1,31 @@
+.inputTag {
+  background-color: white;
+  width: 25vh;
+  padding: 2vh;
+  border: 0px;
+  border-radius: 10px;
+  /* margin-left: 2vh; */
+  margin-right: 4vh;
+  transition: 0.5s ease-in-out;
+}
+.inputTag[type='text'] {
+  border: none;
+  outline: none;
+}
+.inputTag[type='text']:hover {
+  width: 50vh;
+}
+.inputTag[type='text']:focus {
+  width: 50vh;
+}
+.addBtn {
+  color: white;
+  background-color: #1d3128;
+  border: none;
+  padding: 2vh;
+  border-radius: 10px;
+}
+.addBtn:hover {
+  color: white;
+  background-color: #263e33;
+}

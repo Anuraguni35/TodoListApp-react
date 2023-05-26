@@ -1,0 +1,43 @@
+.todoCard {
+  background-color: #eae7e6;
+  height: 20vh;
+  border-radius: 10px;
+  padding: 2vh;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 3vh;
+  position: relative;
+}
+.todoCard_btnSec {
+  background-color: #eae7e6;
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+}
+.MarkDone {
+  background-color: #31b3bf;
+  border: none;
+  border-radius: 7px;
+  padding: 7px;
+  color: white;
+  margin-right: 1.5vh;
+}
+.MarkDone:hover {
+  background-color: #3bcfdd;
+}
+.delete_Btn {
+  background-color: #b20107;
+  border: none;
+  border-radius: 7px;
+  padding: 7px;
+  color: white;
+}
+.delete_Btn:hover {
+  background-color: #da181e;
+}
+.todoCard_head {
+  background-color: #eae7e6;
+}
+.todoCard_content {
+  background-color: #eae7e6;
+  margin-top: 1vh;
+}

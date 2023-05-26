@@ -1,0 +1,15 @@
+h1 {
+  /* background: -webkit-linear-gradient(120deg, #90c1ee, #9092ee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+  font-size: 45px;
+  color: white;
+}
+.App {
+  display: flex;
+  justify-content: center;
+  font-family: 'Inter', sans-serif;
+}
+* {
+  background-color: #04100b;
+}
